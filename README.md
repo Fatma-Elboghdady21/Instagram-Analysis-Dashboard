@@ -2,7 +2,13 @@
 
 A Power BI-based dashboard project for analyzing Instagram performance, audience engagement, and content growth insights.
 
-This repository contains the project metadata for a Power BI report named `instegramAnalysis`, along with the dashboard documentation needed to understand the purpose, scope, and setup of the analysis.
+This repository contains the project metadata for a Power BI report named `instegramAnalysis`, along with documentation for the dashboard and its reporting structure.
+
+## Dashboard Preview
+
+Add your dashboard screenshot to the repository as `dashboard-preview.png` and it will appear below automatically.
+
+![Instagram Analysis Dashboard Preview](./dashboard-preview.png)
 
 ## Project Purpose
 
@@ -62,7 +68,7 @@ Instagram-Analysis-Dashboard/
 ├── instegramAnalysis.pbip
 ├── instegramAnalysis.Report/
 ├── README.md
-└── ...
+└── dashboard-preview.png
 ```
 
 The `.pbip` file is the project descriptor used by Power BI/Fabric to identify the report and project settings.
