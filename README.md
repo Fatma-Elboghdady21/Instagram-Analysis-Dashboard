@@ -8,6 +8,10 @@ This repository contains the project metadata for a Power BI report named `inste
 
 Add your dashboard screenshot to the repository as `dashboard-preview.png` and it will appear below automatically.
 
+![Instagram Analysis Dashboard Preview](./Overview.png)
+
+![Instagram Analysis Dashboard Preview](./performance.png)
+
 ![Instagram Analysis Dashboard Preview](./accounts.png)
 
 ## Project Purpose
